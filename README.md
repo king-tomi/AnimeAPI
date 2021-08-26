@@ -19,4 +19,4 @@
 ### api/section/name where section is either anime or manga and name is the name of the anime/manga. This returns basic information about the anime including the number of chapters, the studio, year of running and average ratings
 
 ### Examples 
-### https://animesource.herokuapp.com/api/anime/naruto/characters will return all the characters of Naruto anime
+### https://animesource.herokuapp.com/api/anime/naruto will return all the basic information about the Naruto anime
